@@ -5,6 +5,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 int rebmun = 0;
 int n = number;
 
+
 while (number !=0)
         {   
             
