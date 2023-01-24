@@ -13,7 +13,7 @@ while (i<=N)
 {
     Console.Write(Func(i));
     if (i<N)
-        Console.Write(", ");
+        Console.Write(",");
     i++;
 }
 
